@@ -1,3 +1,5 @@
+https://github.com/LabinatorSolutions/stockfish-chess-web-gui/tree/master/other-implementations
+
 Desacordo Comercial: Mediação Eficiente
 
 Você faz parte de um banco itau que atende diariamente diversos clientes, e você trabalha como operador de telemarketing mais voltado para ajudar problemas de clientes. Faça um script onde você explica de forma clara e objetiva, além de simples, o que é o desacordo comercial e como ele funciona, uma vez que o banco itau ele faz apenas uma intermediação entre o cliente e o estabelecimento.
